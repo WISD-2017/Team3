@@ -13,10 +13,10 @@ class ChangeUsersTable extends Migration
     public function up()
     {
         Schema::table('users', function (Blueprint $table) {
-            // 修改 users 資料表的 name 欄位，將其改名為 login_name
-            $table->renameColumn('name', 'login_name');
+            // 修改 users 資料表的 name 欄位，將其改名為 account
+            $table->renameColumn('name', 'account');
             // 將 login_name 增加 unique 索引，確保 login_name 的值都是唯一的
-            $table->unique('login_name');
+            $table->unique('account');
             // 移除 email 的 unique 索引
             $table->dropUnique('users_email_unique');
             // 在 name 後面新增 user_name 欄位，這邊的欄位順序似乎是參考未執行 migrate 時的狀態，
@@ -38,8 +38,8 @@ class ChangeUsersTable extends Migration
             $table->dropColumn('status');
             $table->dropColumn('user_name');
             $table->unique('email');
-            $table->dropUnique('users_login_name_unique');
-            $table->renameColumn('login_name', 'name');
+            $table->dropUnique('users_account_unique');
+            $table->renameColumn('account', 'name');
         });
     }
 }

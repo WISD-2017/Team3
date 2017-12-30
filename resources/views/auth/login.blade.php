@@ -8,19 +8,19 @@
                 <div class="panel-body">
                     <form class="form-horizontal" role="form" method="POST" action="{{ url('/login') }}">
                         {{ csrf_field() }}
-                        <div class="form-group{{ $errors->has('login_name') ? ' has-error' : '' }}">
-                            <label for="login_name" class="col-md-4 control-label">登入帳號</label>
+                        <div class="form-group{{ $errors->has('account') ? ' has-error' : '' }}">
+                            <label for="account" class="col-md-4 control-label">會員帳號</label>
                             <div class="col-md-6">
-                                <input id="login_name" type="text" class="form-control" name="login_name" value="{{ old('login_name') }}" required autofocus>
-                                @if ($errors->has('login_name'))
+                                <input id="account" type="text" class="form-control" name="account" value="{{ old('account') }}" required autofocus>
+                                @if ($errors->has('account'))
                                     <span class="help-block">
-                                        <strong>{{ $errors->first('login_name') }}</strong>
+                                        <strong>{{ $errors->first('account') }}</strong>
                                     </span>
                                 @endif
                             </div>
                         </div>
                         <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
-                            <label for="password" class="col-md-4 control-label">密碼</label>
+                            <label for="password" class="col-md-4 control-label">會員密碼</label>
                             <div class="col-md-6">
                                 <input id="password" type="password" class="form-control" name="password" required>
                                 @if ($errors->has('password'))

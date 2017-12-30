@@ -39,7 +39,7 @@ class LoginController extends Controller
      */
     public function username()
     {
-        return 'login_name';
+        return 'account';
     }
     /**
      * Attempt to log the user into the application.
