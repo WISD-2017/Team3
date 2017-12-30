@@ -6,7 +6,7 @@ class User extends Authenticatable
 {
     use Notifiable;
     const STATUS_ACTIVE = 'active';
-    const STATUS_IDLE = 'idle';
+    const STATUS_INACTIVE = 'inactive';
     /**
      * The attributes that are mass assignable.
      *
