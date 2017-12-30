@@ -37,20 +37,20 @@ class LoginController extends Controller
         $this->username = config('admin.global.username');
     }
     /**
-     * 重写登录视图页面
-     * @author 晚黎
-     * @date   2016-09-05T23:06:16+0800
-     * @return [type]                   [description]
+     *
+     * @author
+     *
+     * @return
      */
     public function showLoginForm()
     {
         return view('admin.login.index');
     }
     /**
-     * 自定义认证驱动
-     * @author 晚黎
-     * @date   2016-09-05T23:53:07+0800
-     * @return [type]                   [description]
+     *
+     * @author
+     *
+     * @return
      */
     protected function guard()
     {

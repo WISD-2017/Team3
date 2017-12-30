@@ -44,9 +44,9 @@
                                 <button type="submit" class="btn btn-primary">
                                     登入
                                 </button>
-                                <a class="btn btn-link" href="{{ url('/password/reset') }}">
+                                <!-- <a class="btn btn-link" href="{{ url('/password/reset') }}">
                                     忘記密碼?
-                                </a>
+                                </a> -->
                             </div>
                         </div>
                     </form>
