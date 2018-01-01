@@ -26,6 +26,7 @@ class DashboardController extends Controller
      */
     public function index()
     {
-        dd('目前登入：'.auth('admin')->user()->name);
+        //dd('目前登入：'.auth('admin')->user()->name);
+        return view('admin.login.home');
     }
 }
