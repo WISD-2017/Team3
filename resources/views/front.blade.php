@@ -79,9 +79,8 @@
                     <ul class="nav-nav1">
                         <li class="nav-type-plain-link nav-item-0"><a href="#"><span>News</span></a></li>
                         <li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://localhost:8000/foodpictorial"><span>美食圖鑑</span></a></li>
-                        <li class="nav-type-plain-link nav-item-2"><a href=""><span>文章分享</span></a></li>
-                        <li class="nav-type-plain-link nav-item-3"><a href="http://localhost:8000/about"><span>About</span></a></li>
-                        <li class="nav-type-plain-link nav-item-4"><a href="http://localhost:8000/contact"><span>Contact</span></a></li></ul>
+                        <li class="nav-type-plain-link nav-item-2"><a href="http://localhost:8000/about"><span>About</span></a></li>
+                        <li class="nav-type-plain-link nav-item-3"><a href="http://localhost:8000/contact"><span>Contact</span></a></li></ul>
                     <div class="lv1-social">
                         <a class="fjt-icon icon-facebook" href="https://www.facebook.com/leo.huang.391" target="_blank"></a>
                         <a class="fjt-icon icon-instagram" href="http://instagram.com/leohuang1996" target="_blank"></a>
@@ -100,7 +99,6 @@
             </div>
 
         </div>@yield('content')
-        </div>
     </div>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script src="http://www.fujintree355.com/assets/fujintree355.js"></script>

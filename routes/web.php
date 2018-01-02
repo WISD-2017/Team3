@@ -28,7 +28,7 @@ Route::get('/contact',function(){
 });
 
 Route::get('/abc',function(){
-    return view('contact');
+    return view('abc');
 });
 
 Route::get('/news', 'FrontController@index');

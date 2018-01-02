@@ -158,12 +158,7 @@
         </div>
         <div id="beta" class="wider">
             <div class="post-content with-scroller">
-                大媽當一日店長，肉包全面半價!!<br />
-                <br />
-                好吃的大媽肉包，本人擔任一日店長!<br />
-                活動日期：1/5&nbsp;<br />
-                大媽駐店日：1/5 12:00-18:00<br />
-                大媽駐店地址：台北市松山區大媽街355號
+
             </div>
             <div class="post-image">
                 <img src="http://static.ettoday.net/images/2062/d2062360.jpg" alt="">
