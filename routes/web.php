@@ -14,6 +14,10 @@
 Route::get('/', function () {
     return view('index');
 });
+Route::get('/news',function (){
+    return view('news');
+});
+
 
 Auth::routes();
 
