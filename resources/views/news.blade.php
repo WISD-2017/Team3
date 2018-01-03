@@ -129,12 +129,12 @@
                         <li class="sublist">
                             News
                             <ul class="with-pagination">
-                                <li><a href="http://localhost:8000/news">大媽肉包</a><li>
-                                <li><a href="http://localhost:8000/news">大媽肉包</a><li>
-                                <li><a href="http://localhost:8000/news">大媽肉包</a><li>
-                                <li><a href="http://localhost:8000/news">大媽肉包</a><li>
-                                <li><a href="http://localhost:8000/news">大媽肉包</a><li>
-                                <li><a href="http://localhost:8000/news">大媽肉包</a><li>
+                                <li><a href="http://localhost:8000/news">大媽肉包</a></li>
+                                <li><a href="http://localhost:8000/news">大媽肉包</a></li>
+                                <li><a href="http://localhost:8000/news">大媽肉包</a></li>
+                                <li><a href="http://localhost:8000/news">大媽肉包</a></li>
+                                <li><a href="http://localhost:8000/news">大媽肉包</a></li>
+                                <li><a href="http://localhost:8000/news">大媽肉包</a></li>
                             </ul>
                             <div class="lv2-pagination">
 <!--                                <a class="disabled">←</a>-->

@@ -109,7 +109,7 @@
         <!-- Content -->
         <div id="alpha">
             <div id="logo">
-                <a href="http://127.0.0.1:8000/test.png">
+                <a href="http://127.0.0.1:8000/">
                     <!-- <img src="http://www.fujintree355.com/assets/sites/fujintree355/logo.png"> -->
                     <img src="test.png">
                     <h4><br>TaiChung - 美食圖鑑</h4>
@@ -268,12 +268,12 @@
             var uri = linktitle.toLowerCase();
             $('.sublist').empty().prepend(linktitle);
                 var html = '<ul>';
-                html += '<li><a href="http://localhost:8000/news/news1">大媽肉包</a></li>';
-                html += '<li><a href="http://localhost:8000/news/news1">大媽肉包</a></li>';
-                html += '<li><a href="http://localhost:8000/news/news1">大媽肉包</a></li>';
-                html += '<li><a href="http://localhost:8000/news/news1">大媽肉包</a></li>';
-                html += '<li><a href="http://localhost:8000/news/news1">大媽肉包</a></li>';
-                html += '<li><a href="http://localhost:8000/news/news1">大媽肉包</a></li>';
+                html += '<li><a href="http://localhost:8000/news">大媽肉包</a></li>';
+                html += '<li><a href="http://localhost:8000/news">大媽肉包</a></li>';
+                html += '<li><a href="http://localhost:8000/news">大媽肉包</a></li>';
+                html += '<li><a href="http://localhost:8000/news">大媽肉包</a></li>';
+                html += '<li><a href="http://localhost:8000/news">大媽肉包</a></li>';
+                html += '<li><a href="http://localhost:8000/news">大媽肉包</a></li>';
                 html += '</ul>';
                 $('.sublist').append(html);
                 $("#nav1").animate({ left: "-218px" });
