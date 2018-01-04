@@ -18,6 +18,9 @@ Route::get('/news',function (){
     return view('news');
 });
 
+Route::get('/foodpictorial',function(){
+    return view('foodpictorial');
+});
 
 Auth::routes();
 
@@ -31,7 +34,13 @@ Route::group(['prefix' => 'admin','namespace' => 'Admin'],function ($router)
 
     $router->get('dash', 'DashboardController@index');
 
-    $router->get('post', 'PostController@index');
+    $router->get('post', 'PostController@index')->name('post.index');
+    $router->get('post/create', 'PostController@create')->name('post.create');
+    $router->post('post', 'PostController@store')->name('post.store');
+    $router->get('post/{id}', 'PostController@show')->name('post.show');
+    $router->get('post/{id}/edit', 'PostController@edit')->name('post.edit');
+    $router->patch('post/{id}', 'PostController@update')->name('post.update');
+    $router->delete('post/{id}', 'PostController@destroy')->name('post.destroy');
 
     $router->get('upload', 'UploadController@index');
     $router->post('admin/upload/file', 'UploadController@uploadFile');

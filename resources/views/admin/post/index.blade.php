@@ -1,65 +1,36 @@
 @extends('admin.layout')
 
 @section('content')
-<div class="container-fluid">
-    <div class="row page-title-row">
-        <div class="col-md-6">
-            <h3>Posts <small>» Listing</small></h3>
-        </div>
-        <div class="col-md-6 text-right">
-            <a href="/admin/post/create" class="btn btn-success btn-md">
-                <i class="fa fa-plus-circle"></i> New Post
-            </a>
-        </div>
-    </div>
+<section class="container">
+  <div class="container-fluid">
+      <div class="row page-title-row">
+          <div class="col-md-6">
+              <h3>Posts <small>» List</small></h3>
+          </div>
+      </div>
 
-    <div class="row">
-        <div class="col-sm-12">
-
-            @include('admin.partials.errors')
-            @include('admin.partials.success')
-
-            <table id="posts-table" class="table table-striped table-bordered">
-            <thead>
-                <tr>
-                    <th>Published</th>
-                    <th>Title</th>
-                    <th>Subtitle</th>
-                    <th data-sortable="false">Actions</th>
-                </tr>
-            </thead>
-            <tbody>
-            @foreach ($posts as $post)
-                <tr>
-                    <td data-order="{{ $post->published_at->timestamp }}">
-                        {{ $post->published_at->format('j-M-y g:ia') }}
-                    </td>
-                    <td>{{ $post->title }}</td>
-                    <td>{{ $post->subtitle }}</td>
-                    <td>
-                        <a href="/admin/post/{{ $post->id }}/edit" class="btn btn-xs btn-info">
-                            <i class="fa fa-edit"></i> Edit
-                        </a>
-                        <a href="/blog/{{ $post->slug }}" class="btn btn-xs btn-warning">
-                            <i class="fa fa-eye"></i> View
-                        </a>
-                    </td>
-                </tr>
-            @endforeach
-            </tbody>
+      <div class="row">
+          <div class="col-sm-12">
+            <a href="{{ url('admin/post/create') }}" role="btn" class="btn btn-primary pull-right">新增</a>
+            <table class="table table-hover">
+              @foreach ($query as $var)
+              <tr>
+                <td>{{ $var -> id }}</td>
+                <td>{{ $var -> title }}</td>
+                <td><a href="{{ url('admin/post/'.$var->id.'/edit') }}" role="btn" class="btn btn-warning">編輯</a></td>
+                <td>
+                  <form class="" action="{{ url('admin/post/'.$var->id) }}" method="post">
+                    <input type="hidden" name="_token" value="{{ csrf_token() }}">
+                    <input type="hidden" name="_method" value="DELETE">
+                    <input type="submit" role="btn" class="btn btn-danger "value="刪除">
+                  </form>
+                </td>
+                  <!-- <a href="{{ url('admin/post/'.$var->id.'/delete') }}" role="btn" class="btn btn-danger">刪除</a></td> -->
+              </tr>
+              @endforeach
             </table>
-        </div>
+          </div>
+      </div>
     </div>
-
-</div>
-@stop
-
-@section('scripts')
-<script>
-    $(function() {
-        $("#posts-table").DataTable({
-            order: [[0, "desc"]]
-        });
-    });
-</script>
+</section>
 @stop
