@@ -119,7 +119,7 @@
                 <div class="lv1">
                     <ul class="nav-nav1">
                         <li class="nav-type-plain-link nav-item-0"><a href="#"><span>News</span></a></li>
-                        <li class="nav-type-page nav-item-1 nav-item-page-10"><a href="access"><span>美食圖鑑</span></a></li>
+                        <li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://localhost:8000/foodpictorial"><span>美食圖鑑</span></a></li>
                         <li class="nav-type-plain-link nav-item-2"><a href="catalogue"><span>文章分享</span></a></li>
                         <li class="nav-type-plain-link nav-item-3"><a href="#"><span>About</span></a></li>
                         <li class="nav-type-plain-link nav-item-4"><a href="#"><span>Contact</span></a></li></ul>
