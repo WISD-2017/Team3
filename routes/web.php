@@ -34,13 +34,13 @@ Route::group(['prefix' => 'admin','namespace' => 'Admin'],function ($router)
 
     $router->get('dash', 'DashboardController@index');
 
-    $router->get('post', 'PostController@index')->name('post.index');
-    $router->get('post/create', 'PostController@create')->name('post.create');
-    $router->post('post', 'PostController@store')->name('post.store');
-    $router->get('post/{id}', 'PostController@show')->name('post.show');
-    $router->get('post/{id}/edit', 'PostController@edit')->name('post.edit');
-    $router->patch('post/{id}', 'PostController@update')->name('post.update');
-    $router->delete('post/{id}', 'PostController@destroy')->name('post.destroy');
+    $router->get('news', 'NewsController@index')->name('news.index');
+    $router->get('news/create', 'NewsController@create')->name('news.create');
+    $router->post('news', 'NewsController@store')->name('news.store');
+    $router->get('news/{id}', 'NewsController@show')->name('news.show');
+    $router->get('news/{id}/edit', 'NewsController@edit')->name('news.edit');
+    $router->patch('news/{id}', 'NewsController@update')->name('news.update');
+    $router->delete('news/{id}', 'NewsController@destroy')->name('news.destroy');
 
     $router->get('upload', 'UploadController@index');
     $router->post('admin/upload/file', 'UploadController@uploadFile');
