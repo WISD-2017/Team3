@@ -4,8 +4,8 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-
-        <title>{{ config('blog.title') }} Admin</title>
+        <link rel="shortcut icon" href="test.png">
+        <title>DaTaiChung-美食圖鑑</title>
 
         <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
         @yield('styles')
