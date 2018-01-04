@@ -28,7 +28,9 @@
 
     <div class="row">
         <div class="col-sm-12">
-
+          
+          @include('admin.partials.errors')
+          @include('admin.partials.success')
 
 
             <table id="uploads-table" class="table table-striped table-bordered">
