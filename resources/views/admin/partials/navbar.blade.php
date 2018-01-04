@@ -1,6 +1,7 @@
 <ul class="nav navbar-nav">
-    <li><a href="/">Home</a></li>
+    <li><a href="/admin/dash">Home</a></li>
     <li><a href="/admin/post">Posts</a></li>
+    <li><a href="/admin/upload">Uploads</a></li>
     <!-- @if (Auth::check())
         <li @if (Request::is('admin/post*')) class="active" @endif>
             <a href="/admin/post">Posts</a>

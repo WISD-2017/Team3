@@ -27,7 +27,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="/admin/dash">{{ config('blog.title') }} Admin</a>
+                    <a class="navbar-brand" href="/">DaTaiChung</a>
                 </div>
                 <div class="collapse navbar-collapse" id="navbar-menu">
                     @include('admin.partials.navbar')
@@ -36,7 +36,7 @@
         </nav>
 
         @yield('content')
-
+        <script src="/assets/js/jquery-3.2.1.min.js"></script>
         <script src="http://libs.baidu.com/jquery/1.9.1/jquery.min.js"></script>
         <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
 

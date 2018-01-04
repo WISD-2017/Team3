@@ -149,13 +149,13 @@
                 <!-- <a href="http://www.fujintree355.com/catalogue/184/show" class="image" style="background-image:url('/uploads/s4/4ae6a9f1dc078aa80b61bf7990a1e18e1a5fd6cd/d6229e3661282540d51400d5790445.jpg');display:block"></a>
                         <a href="https://www.facebook.com/FujinTree355/" class="image" style="background-image:url('/uploads/s4/8ba8e8c9caf68c449b357148e00273730c7b7ef6/1b2096fe51577795655b5828efb845.jpg');display:none"></a>
                         <a href="https://www.facebook.com/FujinTree355/" class="image" style="background-image:url('/uploads/s4/fe7120dfeb03aef862c66bb5fb200d5446eac202/2a8520e3f0a8cacd21393433c82d21.jpg');display:none"></a> -->
-                <div class="image" style="background-image:url('/uploads/wuma.jpg');display:block"></div>
-                <div class="image" style="background-image:url('/uploads/gting.jpg');display:none"></div>
-                <div class="image" style="background-image:url('/uploads/fongwei.jpg');display:none"></div>
-                <div class="image" style="background-image:url('/uploads/smellgood.jpg');display:none"></div>
-                <div class="image" style="background-image:url('/uploads/curry.jpg');display:none"></div>
-                <div class="image" style="background-image:url('/uploads/school.jpg');display:none"></div>
-                <div class="image" style="background-image:url('/uploads/jack.jpg');display:none"></div>
+                <div class="image" style="background-image:url('/uploads/Test/wuma.jpg');display:block"></div>
+                <div class="image" style="background-image:url('/uploads/Test/gting.jpg');display:none"></div>
+                <div class="image" style="background-image:url('/uploads/Test/fongwei.jpg');display:none"></div>
+                <div class="image" style="background-image:url('/uploads/Test/smellgood.jpg');display:none"></div>
+                <div class="image" style="background-image:url('/uploads/Test/curry.jpg');display:none"></div>
+                <div class="image" style="background-image:url('/uploads/Test/school.jpg');display:none"></div>
+                <div class="image" style="background-image:url('/uploads/Test/jack.jpg');display:none"></div>
             </div>
             <div class="fjt-slide-caption" style="display:block">
                 <h2>屋馬燒肉</h2>

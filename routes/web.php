@@ -32,4 +32,10 @@ Route::group(['prefix' => 'admin','namespace' => 'Admin'],function ($router)
     $router->get('dash', 'DashboardController@index');
 
     $router->get('post', 'PostController@index');
+
+    $router->get('upload', 'UploadController@index');
+    $router->post('admin/upload/file', 'UploadController@uploadFile');
+    $router->delete('admin/upload/file', 'UploadController@deleteFile');
+    $router->post('admin/upload/folder', 'UploadController@createFolder');
+    $router->delete('admin/upload/folder', 'UploadController@deleteFolder');
 });
