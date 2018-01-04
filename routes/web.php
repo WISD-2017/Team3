@@ -26,4 +26,6 @@ Route::group(['prefix' => 'admin','namespace' => 'Admin'],function ($router)
     $router->post('logout', 'LoginController@logout');
 
     $router->get('dash', 'DashboardController@index');
+
+    $router->get('post', 'PostController@index');
 });
