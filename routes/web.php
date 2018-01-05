@@ -22,6 +22,14 @@ Route::get('/foodpictorial',function(){
     return view('foodpictorial');
 });
 
+Route::get('/about',function(){
+    return view('about');
+});
+
+Route::get('/contact',function(){
+    return view('contact');
+});
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
