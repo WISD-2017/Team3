@@ -6,6 +6,8 @@ use Illuminate\Http\Request;
 
 use App\Http\Requests;
 use App\Http\Controllers\Controller;
+use App\User;
+use App\Http\Requests\UserRequest;
 
 class DashboardController extends Controller
 {
@@ -26,7 +28,7 @@ class DashboardController extends Controller
      */
     public function index()
     {
-        //dd('目前登入：'.auth('admin')->user()->name);
-        return view('admin.login.home');
+      $query = User::all();
+      return view ('admin.member.index',compact('query'));
     }
 }

@@ -1,5 +1,6 @@
 <ul class="nav navbar-nav">
     <li><a href="/admin/dash">Home</a></li>
+    <li><a href="/admin/member">Member</a></li>
     <li><a href="/admin/news">News</a></li>
     <li><a href="/admin/upload">Uploads</a></li>
     <!-- @if (Auth::check())

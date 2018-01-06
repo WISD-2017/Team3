@@ -15,8 +15,6 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/news', 'FrontController@index');
-
 Route::get('/foodpictorial',function(){
     return view('foodpictorial');
 });
@@ -33,6 +31,8 @@ Route::get('/abc',function(){
     return view('contact');
 });
 
+Route::get('/news', 'FrontController@index');
+
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
@@ -48,10 +48,14 @@ Route::group(['prefix' => 'admin','namespace' => 'Admin'],function ($router)
     $router->get('news', 'NewsController@index')->name('news.index');
     $router->get('news/create', 'NewsController@create')->name('news.create');
     $router->post('news', 'NewsController@store')->name('news.store');
-    $router->get('news/{id}', 'NewsController@show')->name('news.show');
     $router->get('news/{id}/edit', 'NewsController@edit')->name('news.edit');
     $router->patch('news/{id}', 'NewsController@update')->name('news.update');
     $router->delete('news/{id}', 'NewsController@destroy')->name('news.destroy');
+
+    $router->get('member', 'MemberController@index')->name('member.index');
+    $router->get('member/{id}/edit', 'MemberController@edit')->name('member.edit');
+    $router->patch('member/{id}', 'MemberController@update')->name('member.update');
+    $router->delete('member/{id}', 'MemberController@destroy')->name('member.destroy');
 
     $router->get('upload', 'UploadController@index');
     $router->post('admin/upload/file', 'UploadController@uploadFile');
