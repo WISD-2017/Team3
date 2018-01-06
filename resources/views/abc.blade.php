@@ -174,49 +174,33 @@
                                     <p>&nbsp;</p>
                                     <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1496576308-3186417192_n.jpg?v=1496576314" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
                                     <p>&nbsp;</p>
-                                    <div class="more"><a href="http://localhost:8000/abc">(繼續閱讀...)</a></div>
+                                    <p>111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                        111111111111111111111111111111111111111111111111111</br>
+                                    </p>
+                                    <p>&nbsp;</p>
                                 </div>
-                            </div> <!-- .article-content //-->
-                            {{--<p class="author">--}}
-                                {{--iamyuyiiiiiiiii 發表在 <a href="http://www.pixnet.net/">痞客邦 PIXNET</a>                    <a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8#comments">留言</a>(0) <span class="author-views">人氣(<span id="BlogArticleCount-160719188">969</span>)</span>--}}
-                            {{--</p> <!-- .author //-->--}}
-                        </div> <!-- .article-body //-->
-                        <div class="article-footer">
-                            <ul class="refer">
-                            </ul>
-                            <div class="back-to-top"><a href="#top" title="back to the top of the page">▲top</a></div>
-                        </div> <!-- .article-footer //-->
-                        <HR color="#a9a9a9" size="5" >
-                    </div>
-                    <div class="article" id="article-160719188">
-                        <ul class="article-head">
-                            <li class="publish"><span class="month">Jan </span><span class="date">05 </span><span class="day">Fri </span><span class="year">2018 </span><span class="time">01:35</span></li>
-                            <p>&nbsp;</p>
-                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中 北海道 乳酪蛋糕】杏屋乳酪蛋糕。純淨美味的爆漿輕熟乳酪蛋糕！</a></h2></li>
-                        </ul>
-                        <div class="article-body">
-                            <div class="article-content">
+                            </div>
+                        </div>
 
-                                <div class="article-content-inner">
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1496576308-3186417192_n.jpg?v=1496576314" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    <div class="more"><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">(繼續閱讀...)</a></div>
-                                </div>
-                            </div> <!-- .article-content //-->
-                        </div> <!-- .article-body //-->
                         <div class="article-footer">
                             <ul class="refer">
                             </ul>
                             <div class="back-to-top"><a href="#top" title="back to the top of the page">▲top</a></div>
-                            <HR color="#a9a9a9" size="5" >
                         </div> <!-- .article-footer //-->
                     </div>
                 </div> <!-- #article-box //-->
             </div> <!-- #article-area //-->
         </div>
     </div>
-
     <!-- ./ content -->
 </div>
 <!-- ./ container -->
@@ -231,159 +215,11 @@
 
 <!-- Google Analytics
 ================================================== -->
-<script>
-    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-    ga('create', 'UA-46825823-1', 'fujintree355.com');
-    ga('send', 'pageview');
-
-</script>
 
 <!-- Other Globals
 ================================================== -->
-<script type="text/javascript">
-    simpleCart({
-        cartColumns: [
-            { attr: "name" , label: "品名" } ,
-            { attr: "quantity" , label: "數量" } ,
-            { attr: "total" , label: "金額", view: 'currency' } ,
-            { view: "remove" , text: "&times;" , label: false }
-        ],
-        cartStyle: "table",
-        update: function(){
-            if(simpleCart.quantity()>0){
-                $('li.with-item').show();
-                $('li.no-item').hide();
-            }
-            else{
-                $('li.no-item').show();
-                $('li.with-item').hide();
-            }
-            var w = ($('.simpleCart_quantity').width()==0) ? 7 : $('.simpleCart_quantity').width();
-            $('#cart .cart-link').css('width',(w+39)+'px');
-        },
-        checkout: {
-            type: "SendForm" ,
-            url: "http://www.fujintree355.com/checkout" ,
-            extra_data: {
-                _token: 'aZvivku3Nh3MAWJUChCeWCvAFcGG32ASWCwDNVTA'
-            }
-        }
-    });
-    simpleCart.currency({
-        code:"TWD", symbol:"$", name:"New Taiwan Dollar",
-        delimiter: "," ,
-        accuracy: 0
-    });
-    simpleCart.shipping(function(){
-        var fee = 0;
-        var has_furniture = 0;
-        simpleCart.each( function( item ){
-            has_furniture += parseInt(item.get('is_furniture'));
-            var _fee = parseInt(item.get('shipping_fee'));
-            if(_fee>fee)
-                fee = _fee;
-        });
-        return (has_furniture>0) ? 0 : fee;
-    });
 
-    var cartDataShownTimeout = null;
-    var lv2_pp = 6;
-
-    $(document).ready(function() {
-        $('#cart_checkout').click(function(e){
-            e.preventDefault();
-            simpleCart.checkout();
-        })
-
-        $('#cart .cart-link').hover(
-            function() {
-                window.clearTimeout(cartDataShownTimeout);
-                showCartData();
-            }, function() {
-                hideCartData();
-            }
-        );
-
-        $("#nav1 .lv1 a[href='#']").click(function(e) {
-            e.preventDefault();
-            var linktitle = $(this).find('span').html();
-            var uri = linktitle.toLowerCase();
-
-            $('.sublist').empty().prepend(linktitle);
-            if(uri=='online shop'){
-                var html = '<ul>';
-                html += '<li><a href="/products">All Items</a></li>';
-                html += '<li><a href="/brands">Brands</a></li>';
-                html += '</ul>';
-                $('.sublist').append(html);
-                $("#nav1").animate({ left: "-218px" });
-            }
-            else{
-                $.get('/api/'+uri,{per_page:lv2_pp},function(data){
-                    var html = (data.paging.total>6) ? '<ul class="with-pagination">' : '<ul>';
-                    $.each(data.items, function(i,obj){
-                        html += '<li><a href="/'+uri+'/'+obj.uri+'">'+obj.title+'</a></li>';
-                    });
-                    html += '</ul>';
-                    if(data.paging.total>6){
-                        html += '<div class="lv2-pagination">';
-                        html += (data.paging.prev!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.prev+'">←</a>' : '<a class="disabled">←</a>';
-                        html += (data.paging.next!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.next+'">→</a>' : '<a class="disabled">→</a>';
-                        html += '</div>';
-                    }
-                    $('.sublist').append(html);
-                    $("#nav1").animate({ left: "-218px" });
-                },'json');
-            }
-        });
-        $("#nav1 .lv2 a.lv-back").click(function(e) {
-            e.preventDefault();
-            $("#nav1").animate({ left: "0px" }, 400, 'swing', function(){ $("#nav1").removeClass('dynamic'); });
-        });
-        $('.lv2').on('click','.lv2-pagination > a:not(.disabled)',function(e){
-            e.preventDefault();
-
-            var _page = $(this).attr('data-page');
-            var linktitle = $(this).attr('href');
-            var _uri = linktitle.toLowerCase();
-
-            var _animate_left = ($(this).text()=='←') ? "+=218px" : "-=218px";
-            var _new_html_position = ($(this).text()=='←') ? "-218px" : "218px";
-
-            $.get('/api/'+_uri,{per_page:lv2_pp,page:_page},function(data){
-                $('.with-pagination').addClass('old');
-                var html = '<ul class="with-pagination" style="left:'+_new_html_position+'">';
-                $.each(data.items, function(i,obj){
-                    html += '<li><a href="/'+_uri+'/'+obj.uri+'">'+obj.title+'</a></li>';
-                });
-                html += '</ul>';
-                $('.with-pagination').after(html);
-                $('.with-pagination').animate({ left: _animate_left },400,'swing',function(){
-                    $('.with-pagination.old').remove();
-
-                    html2 = (data.paging.prev!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.prev+'">←</a>' : '<a class="disabled">←</a>';
-                    html2 += (data.paging.next!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.next+'">→</a>' : '<a class="disabled">→</a>';
-                    $('.lv2-pagination').html(html2);
-                });
-            },'json');
-        });
-
-        $(".with-scroller").scroller({ handleSize: 58 });
-    });
-
-    function showCartData() {
-        $('#cart .cart-data').show();
-        $('#cart .cart-quantity').hide();
-    }
-    function hideCartData() {
-        $('#cart .cart-data').hide();
-        $('#cart .cart-quantity').show();
-    }
-</script>
 
 <!-- Page Specific
 ================================================== -->

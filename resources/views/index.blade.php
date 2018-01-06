@@ -261,7 +261,7 @@
                 hideCartData();
             }
         );
-
+        // News的程式碼
         $("#nav1 .lv1 a[href='#']").click(function(e) {
             e.preventDefault();
             var linktitle = $(this).find('span').html();
@@ -313,14 +313,15 @@
         $(".with-scroller").scroller({ handleSize: 58 });
     });
 
-    function showCartData() {
-        $('#cart .cart-data').show();
-        $('#cart .cart-quantity').hide();
-    }
-    function hideCartData() {
-        $('#cart .cart-data').hide();
-        $('#cart .cart-quantity').show();
-    }
+    // function showCartData() {
+    //     $('#cart .cart-data').show();
+    //     $('#cart .cart-quantity').hide();
+    // }
+    // function hideCartData() {
+    //     $('#cart .cart-data').hide();
+    //     $('#cart .cart-quantity').show();
+    // }
+
 </script>
 
 <!-- Page Specific
