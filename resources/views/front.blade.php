@@ -57,16 +57,16 @@
 <body>
 <div id="wrap">
     <div class="container">
-        @if(Route::has('login'))
-            <div class="top-right links">
-                @auth
-                    <a href="{{ url('/home') }}">personal</a>
-                @else
-                    <a href="{{ route('login') }}">Login</a>
-                    <a href="{{ route('register') }}">Register</a>
-                @endauth
-            </div>
-    @endif
+      @if(Route::has('login'))
+      <div class="top-right links">
+          @auth
+          <a href="{{ url('/home') }}">Home</a>
+          @else
+          <a href="{{ route('login') }}">Login</a>
+          <a href="{{ route('register') }}">Register</a>
+          @endauth
+      </div>
+      @endif
         <div id="alpha">
             <div id="logo">
                 <a href="http://127.0.0.1:8000/">
