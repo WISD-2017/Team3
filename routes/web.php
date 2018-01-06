@@ -14,9 +14,8 @@
 Route::get('/', function () {
     return view('index');
 });
-Route::get('/news',function (){
-    return view('news');
-});
+
+Route::get('/news', 'FrontController@index');
 
 Route::get('/foodpictorial',function(){
     return view('foodpictorial');
