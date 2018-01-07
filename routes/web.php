@@ -35,7 +35,19 @@ Route::get('/news', 'FrontController@index');
 
 Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/home', 'MessageController@index');
+
+Route::get('/messages', 'MessageController@index');
+
+Route::post('/message', 'MessageController@store');
+
+Route::get('messages/{message}/edit','MessageController@edit');
+
+Route::patch('messages/{message}', 'MessageController@update');
+
+Route::get('messages/{message}', 'MessageController@show');
+
+Route::delete('/message/{message}', 'MessageController@destroy');
 
 Route::group(['prefix' => 'admin','namespace' => 'Admin'],function ($router)
 {
