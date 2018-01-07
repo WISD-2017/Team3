@@ -20,7 +20,7 @@ class MessageController extends Controller
 
   public function index(Request $request)
   {
-      $messages = Message::all();
+      $messages = Message::orderBy('updated_at','desc')->get();
       return view('auth.messages.index', [
         'messages' => $messages,
     ]);
