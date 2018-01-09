@@ -130,7 +130,7 @@
                             美食圖鑑
                             <ul class="with-pagination">
                                 <li><a href="http://localhost:8000/foodpictorial">太平區</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">中區</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial1">中區</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">北屯</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">南屯</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">西屯</a></li>
@@ -165,7 +165,7 @@
                         <ul class="article-head">
                             <li class="publish"><span class="month">Jan </span><span class="date">05 </span><span class="day">Fri </span><span class="year">2018 </span><span class="time">01:35</span></li>
                             <p>&nbsp;</p>
-                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中 北海道 乳酪蛋糕】杏屋乳酪蛋糕。純淨美味的爆漿輕熟乳酪蛋糕！</a></h2></li>
+                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中太平區 北海道乳酪蛋糕】杏屋乳酪蛋糕。純淨美味的爆漿輕熟乳酪蛋糕！</a></h2></li>
                         </ul>
                         <div class="article-body">
                             <div class="article-content">
@@ -190,18 +190,18 @@
                     </div>
                     <div class="article" id="article-160719188">
                         <ul class="article-head">
-                            <li class="publish"><span class="month">Jan </span><span class="date">05 </span><span class="day">Fri </span><span class="year">2018 </span><span class="time">01:35</span></li>
+                            <li class="publish"><span class="month">Jan </span><span class="date">04 </span><span class="day">Thu </span><span class="year">2018 </span><span class="time">01:35</span></li>
                             <p>&nbsp;</p>
-                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中 北海道 乳酪蛋糕】杏屋乳酪蛋糕。純淨美味的爆漿輕熟乳酪蛋糕！</a></h2></li>
+                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【 台中太平區 】福植田有機蔬食餐廳║新鮮吃得到！</a></h2></li>
                         </ul>
                         <div class="article-body">
                             <div class="article-content">
 
                                 <div class="article-content-inner">
                                     <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1496576308-3186417192_n.jpg?v=1496576314" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
+                                    <p><img alt="S__42410078.jpg" height="450" src="https://img.sant.tw/pixnet/74d192ff1254825e18545c3bdc2e18cb.jpg" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
                                     <p>&nbsp;</p>
-                                    <div class="more"><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">(繼續閱讀...)</a></div>
+                                    <div class="more"><a href="">(繼續閱讀...)</a></div>
                                 </div>
                             </div> <!-- .article-content //-->
                         </div> <!-- .article-body //-->
