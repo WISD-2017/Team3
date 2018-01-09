@@ -162,7 +162,7 @@
             <div id="article-area">
                 <div id="article-box">
                     <div class="article" id="article-160719188">
-                        <ul class="article-head">
+                        <ul class="article-head"><div><a href="http://localhost:8000/foodpictorial">▲上一頁</a></div>
                             <li class="publish"><span class="month">Jan </span><span class="date">05 </span><span class="day">Fri </span><span class="year">2018 </span><span class="time">01:35</span></li>
                             <p>&nbsp;</p>
                             <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中太平區 北海道乳酪蛋糕】杏屋乳酪蛋糕。純淨美味的爆漿輕熟乳酪蛋糕！</a></h2></li>
