@@ -109,7 +109,7 @@
         <!-- Content -->
         <div id="alpha">
             <div id="logo">
-                <a href="http://localhost:8000/">
+                <a href="http://127.0.0.1:8000/">
                     <!-- <img src="http://www.fujintree355.com/assets/sites/fujintree355/logo.png"> -->
                     <img src="test.png">
                     <h4><br>TaiChung - 美食圖鑑</h4>
@@ -117,7 +117,7 @@
             </div>
             <div id="nav1" style="left: -218px;">
                 <div class="lv1">
-                    <ul class="nav-nav1"><li class="nav-type-plain-link nav-item-0"><a href="http://localhost:8000/news"><span>News</span></a></li><li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://www.fujintree355.com/access"><span>Access</span></a></li><li class="nav-type-plain-link nav-item-2"><a href="http://www.fujintree355.com/catalogue"><span>Catalogue</span></a></li><li class="nav-type-plain-link nav-item-3"><a href="#"><span>Gallery</span></a></li><li class="nav-type-plain-link nav-item-4"><a href="#"><span>Memo</span></a></li></ul>
+                    <ul class="nav-nav1"><li class="nav-type-plain-link nav-item-0"><a href="#"><span>News</span></a></li><li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://www.fujintree355.com/access"><span>Access</span></a></li><li class="nav-type-plain-link nav-item-2"><a href="http://www.fujintree355.com/catalogue"><span>Catalogue</span></a></li><li class="nav-type-plain-link nav-item-3"><a href="#"><span>Gallery</span></a></li><li class="nav-type-plain-link nav-item-4"><a href="#"><span>Memo</span></a></li></ul>
                     <div class="lv1-social">
                         <a class="fjt-icon icon-facebook" href="https://www.facebook.com/FujinTree355" target="_blank"></a>
                         <a class="fjt-icon icon-blogger" href="http://fujintree355.blogspot.tw/" target="_blank"></a>
@@ -130,7 +130,7 @@
                             美食圖鑑
                             <ul class="with-pagination">
                                 <li><a href="http://localhost:8000/foodpictorial">太平區</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">中區</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial1">中區</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">北屯</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">南屯</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">西屯</a></li>
@@ -162,101 +162,61 @@
             <div id="article-area">
                 <div id="article-box">
                     <div class="article" id="article-160719188">
-                        <ul class="article-head"><div><a href="http://localhost:8000/foodpictorial">▲上一頁</a></div>
+                        <ul class="article-head">
                             <li class="publish"><span class="month">Jan </span><span class="date">05 </span><span class="day">Fri </span><span class="year">2018 </span><span class="time">01:35</span></li>
                             <p>&nbsp;</p>
-                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中太平區 北海道乳酪蛋糕】杏屋乳酪蛋糕。純淨美味的爆漿輕熟乳酪蛋糕！</a></h2></li>
+                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【台中中區 久流小吃】CP值超高／料爆多的什錦麵。平價美食之旅!</a></h2></li>
                         </ul>
                         <div class="article-body">
                             <div class="article-content">
 
                                 <div class="article-content-inner">
                                     <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1496576308-3186417192_n.jpg?v=1496576314" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
+                                    <p><img alt="S__42410078.jpg" height="450" src="http://iphoto.ipeen.com.tw/photo/comment/591426/759714/cgmf18c9b0bd8a9da7f6c5ed663528bf974828.png" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
                                     <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368371-1536074524_n.png?v=1493369144" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    今天下午來到了</br>
-                                    台中的光之乳酪</br>
-                                    <p>&nbsp;</p>
-                                    是一間位於勤美旁邊的日式乳酪蛋糕店</br>
-                                    一靠近店門外，就聞到濃濃的乳酪香</br>
-                                    <p>&nbsp;</p>
-                                    從玻璃外面可以看到廚房正在製做乳酪蛋糕</br>
-                                    使用透明玻璃也讓顧客可以看到乳酪蛋糕的製作過程</br>
-                                    代表著衛生安全有一定保障</br>
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368409-479461958.jpg?v=1493368417" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    店家標榜使用來自北海道的食材</br>
-                                    一進門就可以看到各種食材的擺設</br>
-                                    牆上也有食材的介紹</br>
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368377-4003639048.jpg?v=1493368417" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368409-2725767518.jpg?v=1493368417" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    聞著香味都等不及要品嚐一顆顆飽滿的乳酪蛋糕了~~~</br>
-                                    光之乳酪的乳酪蛋糕分成半熟一號到半熟三號</br>
-                                    是依據乳酪的濃郁度來區分的</br>
-                                    除了乳酪蛋糕，還有賣冰淇淋跟微氣泡飲料</br>
-                                    點餐的時候服務人員很細心的介紹餐點</br>
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493369142-3986180899_n.jpg?v=1493369144" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    今天我們點了朋友推薦的半熟二號，也是他們店裡的招牌</br>
-                                    還有乳酪口味和紅心芭樂口味的冰淇淋</br>
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368393-2805904630_n.jpg?v=1493369144" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368409-1112128523.jpg?v=1493369144" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    乳酪蛋糕吃起來既濃郁又綿密，有點像是烤布雷的口感</br>
-                                    吃完一個會迫不及待的想再吃一個呢!!!!!!!</br>
-                                    乳酪蛋糕是以盒裝販售，有四入裝也有六入裝的</br>
-                                    我們發現六入裝的算起來每入的單價比較低!!!!!!!</br>
-                                    下次來一定要點六入的啦</br>
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368400-2704829025.jpg?v=1493369144" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    冰淇淋吃起來相當的清爽，圖片中看到的是紅心芭樂口味的冰淇淋</br>
-                                    乳酪口味的冰淇淋吃起來偏向奶香味，濃郁但不膩口</br>
-                                    而紅心巴樂口味的冰淇淋，有讓人驚豔的感覺</br>
-                                    沒想到乳酪專賣店的冰淇淋，完全不輸冰淇淋店的冰淇淋啊!!!!!!!</br>
-                                    向店家詢問後，店員說水果口味的冰淇淋</br>
-                                    都是用台灣當季新鮮水果製作而成</br>
-                                    <p>&nbsp;</p>
-                                    <p><img alt="S__42410078.jpg" height="450" src="https://pic.pimg.tw/iamyuyi/1493368393-3214603512_n.jpg?v=1493369144" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
-                                    <p>&nbsp;</p>
-                                    室內的空間設計，讓人放鬆解憂</br>
-                                    店內也擺放了不少書籍</br>
-                                    待上一個下午都不是問題呢!</br>
-                                    期待二訪的到來~~~~~~~~~~~~~</br>
-                                    <p>&nbsp;</p>
-                                    <p>&nbsp;</p>
-                                    光之乳酪
-                                    地址：台中市台中港路一段257號之3 (勤美誠品綠園道旁)</br>
-                                    電話：04-23295797</br>
-                                    <div><a href="http://www.koucheese.com/">光之乳酪官網：http://www.koucheese.com/</a></div>
-                                    <div><a href="http://goo.gl/vqqAX">光之乳酪FB：http://goo.gl/vqqAX</a></div>
-                                    <p>&nbsp;</p>
-                                    <p>&nbsp;</p>
-                                    關鍵字:光之乳酪 北海道</br>
-                                    乳酪蛋糕 台中 勤美 綠園道</br>
-                                    </p>
-                                    <p>&nbsp;</p>
+                                    <div class="more"><a href="http://localhost:8000/def">(繼續閱讀...)</a></div>
                                 </div>
-                            </div>
-                        </div>
-
+                            </div> <!-- .article-content //-->
+                            {{--<p class="author">--}}
+                                {{--iamyuyiiiiiiiii 發表在 <a href="http://www.pixnet.net/">痞客邦 PIXNET</a>                    <a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8#comments">留言</a>(0) <span class="author-views">人氣(<span id="BlogArticleCount-160719188">969</span>)</span>--}}
+                            {{--</p> <!-- .author //-->--}}
+                        </div> <!-- .article-body //-->
                         <div class="article-footer">
                             <ul class="refer">
                             </ul>
-                            <div class="back-to-top"><a href="#top" title="back to the top of the page">▲top</a><a href="http://localhost:8000/foodpictorial">▲上一頁</a></div>
+                            <div class="back-to-top"><a href="#top" title="back to the top of the page">▲top</a></div>
+                        </div> <!-- .article-footer //-->
+                        <HR color="#a9a9a9" size="5" >
+                    </div>
+                    <div class="article" id="article-160719188">
+                        <ul class="article-head">
+                            <li class="publish"><span class="month">Jan </span><span class="date">04 </span><span class="day">Thu </span><span class="year">2018 </span><span class="time">01:35</span></li>
+                            <p>&nbsp;</p>
+                            <li class="title" id="article-160719188" data-hot-link="//www.pixnet.net/blog/articles/category/0" data-site-category="美味食記" data-site-category-id="26" data-article-link="http://iamyuyi.pixnet.net/blog/post/160719188"><h2><a href="http://iamyuyi.pixnet.net/blog/post/160719188-%e3%80%90%e5%8f%b0%e4%b8%ad-%e5%8c%97%e6%b5%b7%e9%81%93-%e4%b9%b3%e9%85%aa%e8%9b%8b%e7%b3%95%e3%80%91%e6%9d%8f%e5%b1%8b%e9%bb%8e%e6%98%8e%e5%ba%97%e3%80%82%e7%b4%94%e6%b7%a8">【 台中中區 aqua水相餐廳】創意義式料理、經典法式排餐!</a></h2></li>
+                        </ul>
+                        <div class="article-body">
+                            <div class="article-content">
+
+                                <div class="article-content-inner">
+                                    <p>&nbsp;</p>
+                                    <p><img alt="S__42410078.jpg" height="450" src="http://iphoto.ipeen.com.tw/photo/comment/1219750/1312439/cm20170220___913b611ea38451cd131f4aa061ae01e9461.jpg" title="S__42410078.jpg" width="600" style="width: 400px; height: 300px;"></p>
+                                    <p>&nbsp;</p>
+                                    <div class="more"><a href="">(繼續閱讀...)</a></div>
+                                </div>
+                            </div> <!-- .article-content //-->
+                        </div> <!-- .article-body //-->
+                        <div class="article-footer">
+                            <ul class="refer">
+                            </ul>
+                            <div class="back-to-top"><a href="#top" title="back to the top of the page">▲top</a></div>
+                            <HR color="#a9a9a9" size="5" >
                         </div> <!-- .article-footer //-->
                     </div>
                 </div> <!-- #article-box //-->
             </div> <!-- #article-area //-->
         </div>
     </div>
+
     <!-- ./ content -->
 </div>
 <!-- ./ container -->
@@ -271,11 +231,159 @@
 
 <!-- Google Analytics
 ================================================== -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+    ga('create', 'UA-46825823-1', 'fujintree355.com');
+    ga('send', 'pageview');
+
+</script>
 
 <!-- Other Globals
 ================================================== -->
+<script type="text/javascript">
+    simpleCart({
+        cartColumns: [
+            { attr: "name" , label: "品名" } ,
+            { attr: "quantity" , label: "數量" } ,
+            { attr: "total" , label: "金額", view: 'currency' } ,
+            { view: "remove" , text: "&times;" , label: false }
+        ],
+        cartStyle: "table",
+        update: function(){
+            if(simpleCart.quantity()>0){
+                $('li.with-item').show();
+                $('li.no-item').hide();
+            }
+            else{
+                $('li.no-item').show();
+                $('li.with-item').hide();
+            }
+            var w = ($('.simpleCart_quantity').width()==0) ? 7 : $('.simpleCart_quantity').width();
+            $('#cart .cart-link').css('width',(w+39)+'px');
+        },
+        checkout: {
+            type: "SendForm" ,
+            url: "http://www.fujintree355.com/checkout" ,
+            extra_data: {
+                _token: 'aZvivku3Nh3MAWJUChCeWCvAFcGG32ASWCwDNVTA'
+            }
+        }
+    });
+    simpleCart.currency({
+        code:"TWD", symbol:"$", name:"New Taiwan Dollar",
+        delimiter: "," ,
+        accuracy: 0
+    });
+    simpleCart.shipping(function(){
+        var fee = 0;
+        var has_furniture = 0;
+        simpleCart.each( function( item ){
+            has_furniture += parseInt(item.get('is_furniture'));
+            var _fee = parseInt(item.get('shipping_fee'));
+            if(_fee>fee)
+                fee = _fee;
+        });
+        return (has_furniture>0) ? 0 : fee;
+    });
 
+    var cartDataShownTimeout = null;
+    var lv2_pp = 6;
+
+    $(document).ready(function() {
+        $('#cart_checkout').click(function(e){
+            e.preventDefault();
+            simpleCart.checkout();
+        })
+
+        $('#cart .cart-link').hover(
+            function() {
+                window.clearTimeout(cartDataShownTimeout);
+                showCartData();
+            }, function() {
+                hideCartData();
+            }
+        );
+
+        $("#nav1 .lv1 a[href='#']").click(function(e) {
+            e.preventDefault();
+            var linktitle = $(this).find('span').html();
+            var uri = linktitle.toLowerCase();
+
+            $('.sublist').empty().prepend(linktitle);
+            if(uri=='online shop'){
+                var html = '<ul>';
+                html += '<li><a href="/products">All Items</a></li>';
+                html += '<li><a href="/brands">Brands</a></li>';
+                html += '</ul>';
+                $('.sublist').append(html);
+                $("#nav1").animate({ left: "-218px" });
+            }
+            else{
+                $.get('/api/'+uri,{per_page:lv2_pp},function(data){
+                    var html = (data.paging.total>6) ? '<ul class="with-pagination">' : '<ul>';
+                    $.each(data.items, function(i,obj){
+                        html += '<li><a href="/'+uri+'/'+obj.uri+'">'+obj.title+'</a></li>';
+                    });
+                    html += '</ul>';
+                    if(data.paging.total>6){
+                        html += '<div class="lv2-pagination">';
+                        html += (data.paging.prev!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.prev+'">←</a>' : '<a class="disabled">←</a>';
+                        html += (data.paging.next!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.next+'">→</a>' : '<a class="disabled">→</a>';
+                        html += '</div>';
+                    }
+                    $('.sublist').append(html);
+                    $("#nav1").animate({ left: "-218px" });
+                },'json');
+            }
+        });
+        $("#nav1 .lv2 a.lv-back").click(function(e) {
+            e.preventDefault();
+            $("#nav1").animate({ left: "0px" }, 400, 'swing', function(){ $("#nav1").removeClass('dynamic'); });
+        });
+        $('.lv2').on('click','.lv2-pagination > a:not(.disabled)',function(e){
+            e.preventDefault();
+
+            var _page = $(this).attr('data-page');
+            var linktitle = $(this).attr('href');
+            var _uri = linktitle.toLowerCase();
+
+            var _animate_left = ($(this).text()=='←') ? "+=218px" : "-=218px";
+            var _new_html_position = ($(this).text()=='←') ? "-218px" : "218px";
+
+            $.get('/api/'+_uri,{per_page:lv2_pp,page:_page},function(data){
+                $('.with-pagination').addClass('old');
+                var html = '<ul class="with-pagination" style="left:'+_new_html_position+'">';
+                $.each(data.items, function(i,obj){
+                    html += '<li><a href="/'+_uri+'/'+obj.uri+'">'+obj.title+'</a></li>';
+                });
+                html += '</ul>';
+                $('.with-pagination').after(html);
+                $('.with-pagination').animate({ left: _animate_left },400,'swing',function(){
+                    $('.with-pagination.old').remove();
+
+                    html2 = (data.paging.prev!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.prev+'">←</a>' : '<a class="disabled">←</a>';
+                    html2 += (data.paging.next!=null) ? '<a href="'+linktitle+'" data-page="'+data.paging.next+'">→</a>' : '<a class="disabled">→</a>';
+                    $('.lv2-pagination').html(html2);
+                });
+            },'json');
+        });
+
+        $(".with-scroller").scroller({ handleSize: 58 });
+    });
+
+    function showCartData() {
+        $('#cart .cart-data').show();
+        $('#cart .cart-quantity').hide();
+    }
+    function hideCartData() {
+        $('#cart .cart-data').hide();
+        $('#cart .cart-quantity').show();
+    }
+</script>
 
 <!-- Page Specific
 ================================================== -->

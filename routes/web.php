@@ -19,6 +19,10 @@ Route::get('/foodpictorial',function(){
     return view('foodpictorial');
 });
 
+Route::get('/foodpictorial1',function(){
+    return view('foodpictorial1');
+});
+
 Route::get('/about',function(){
     return view('about');
 });
