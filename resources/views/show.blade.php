@@ -6,7 +6,6 @@
 
 <section class="container">
   <div class="col-sm-9" style="padding:100px;">
-      @if (count($news) > 0)
           <div class="panel panel-default">
               <div class="panel-heading">
                   <h3>News<small>»»»最新消息</small></h3>
@@ -17,29 +16,21 @@
 
                       <!-- Table Headings -->
                       <thead>
-                          <th>最新消息</th>
+                          <div>{{ $news->title }}</div><br>
                       </thead>
 
                       <!-- Table Body -->
                       <tbody>
-                          @foreach ($news as $var)
                               <tr>
-                                <td class="table-text">
-                                  <a href="{{ url('news/'.$var->id) }}"><div>{{ $var->title }}</div></a>
-                                    <!-- <div>{{ $var->title }}</div> -->
-                                </td>
                                   <!-- Message Name -->
-                                  <!-- <td class="table-text">
-                                      <div>{{ $var->content }}</div>
-                                  </td> -->
+                                  <td class="table-text"><br>
+                                      <textarea name="content" id="" rows="10" cols="160" class="form-control" onclick="alert(this.value);" disabled>{{ $news->content }}</textarea><br>
+                                  </td>
                               </tr>
-                          @endforeach
                       </tbody>
                   </table>
               </div>
           </div>
-      @endif
-
   </div>
 </div>
 @endsection

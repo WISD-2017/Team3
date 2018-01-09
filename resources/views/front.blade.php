@@ -77,7 +77,7 @@
             <div id="nav1">
                 <div class="lv1">
                     <ul class="nav-nav1">
-                        <li class="nav-type-plain-link nav-item-0"><a href="#"><span>News</span></a></li>
+                        <li class="nav-type-plain-link nav-item-0"><a href="http://localhost:8000/news"><span>News</span></a></li>
                         <li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://localhost:8000/foodpictorial"><span>美食圖鑑</span></a></li>
                         <li class="nav-type-plain-link nav-item-2"><a href="http://localhost:8000/about"><span>About</span></a></li>
                         <li class="nav-type-plain-link nav-item-3"><a href="http://localhost:8000/contact"><span>Contact</span></a></li></ul>

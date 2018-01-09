@@ -33,6 +33,8 @@ Route::get('/abc',function(){
 
 Route::get('/news', 'FrontController@index');
 
+Route::get('/news/{id}', 'FrontController@show');
+
 Auth::routes();
 
 Route::get('/home', 'MessageController@index');
