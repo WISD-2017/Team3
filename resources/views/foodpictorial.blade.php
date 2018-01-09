@@ -131,10 +131,10 @@
                             <ul class="with-pagination">
                                 <li><a href="http://localhost:8000/foodpictorial">太平區</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">中區</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">1</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">2</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">3</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">4</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">北屯</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">南屯</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">西屯</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">北區</a></li>
                             </ul>
                             <div class="lv2-pagination">
                                 <!--                                <a class="disabled">←</a>-->

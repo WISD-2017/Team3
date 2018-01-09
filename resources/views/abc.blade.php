@@ -109,7 +109,7 @@
         <!-- Content -->
         <div id="alpha">
             <div id="logo">
-                <a href="http://127.0.0.1:8000/">
+                <a href="http://localhost:8000/">
                     <!-- <img src="http://www.fujintree355.com/assets/sites/fujintree355/logo.png"> -->
                     <img src="test.png">
                     <h4><br>TaiChung - 美食圖鑑</h4>
@@ -117,7 +117,7 @@
             </div>
             <div id="nav1" style="left: -218px;">
                 <div class="lv1">
-                    <ul class="nav-nav1"><li class="nav-type-plain-link nav-item-0"><a href="#"><span>News</span></a></li><li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://www.fujintree355.com/access"><span>Access</span></a></li><li class="nav-type-plain-link nav-item-2"><a href="http://www.fujintree355.com/catalogue"><span>Catalogue</span></a></li><li class="nav-type-plain-link nav-item-3"><a href="#"><span>Gallery</span></a></li><li class="nav-type-plain-link nav-item-4"><a href="#"><span>Memo</span></a></li></ul>
+                    <ul class="nav-nav1"><li class="nav-type-plain-link nav-item-0"><a href="http://localhost:8000/news"><span>News</span></a></li><li class="nav-type-page nav-item-1 nav-item-page-10"><a href="http://www.fujintree355.com/access"><span>Access</span></a></li><li class="nav-type-plain-link nav-item-2"><a href="http://www.fujintree355.com/catalogue"><span>Catalogue</span></a></li><li class="nav-type-plain-link nav-item-3"><a href="#"><span>Gallery</span></a></li><li class="nav-type-plain-link nav-item-4"><a href="#"><span>Memo</span></a></li></ul>
                     <div class="lv1-social">
                         <a class="fjt-icon icon-facebook" href="https://www.facebook.com/FujinTree355" target="_blank"></a>
                         <a class="fjt-icon icon-blogger" href="http://fujintree355.blogspot.tw/" target="_blank"></a>
@@ -131,10 +131,10 @@
                             <ul class="with-pagination">
                                 <li><a href="http://localhost:8000/foodpictorial">太平區</a></li>
                                 <li><a href="http://localhost:8000/foodpictorial">中區</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">1</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">2</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">3</a></li>
-                                <li><a href="http://localhost:8000/foodpictorial">4</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">北屯</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">南屯</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">西屯</a></li>
+                                <li><a href="http://localhost:8000/foodpictorial">北區</a></li>
                             </ul>
                             <div class="lv2-pagination">
                                 <!--                                <a class="disabled">←</a>-->
