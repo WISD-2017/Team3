@@ -69,7 +69,7 @@
       @endif
         <div id="alpha">
             <div id="logo">
-                <a href="http://127.0.0.1:8000/">
+                <a href="http://localhost:8000/">
                     <img src="test.png">
                     <h4><br>TaiChung - 美食圖鑑</h4>
                 </a>
