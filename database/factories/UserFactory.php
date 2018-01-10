@@ -28,8 +28,8 @@ $factory->define(App\Admin::class, function () {
     static $password;
 
     return [
-        'name' => 'Ming',
-        'email' => 'leo851001@gmail.com',
+        'name' => 'admin',
+        'email' => 'admin@gmail.com',
         'password' => $password ?: $password = bcrypt('secret'),
         'remember_token' => str_random(10),
     ];
